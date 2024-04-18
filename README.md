@@ -12,7 +12,7 @@ You can contribute to this repository by submitting pull requests to add or upda
 
 ## Spammers List
 
-| Username     |Link to Profile     | Follower Count| Spam Metrics|  NFSW  |
+| Username     |Link to Profile     | Follower Count| Spam Metrics|  NSFW  |
 | ------------ | ------------------ | ------------- |-------------|---------| 
 | @euphorio_ | https://twitter.com/euphorio_ | 37.5K | 🔴🔴🔴 |
 | @Motabhai012|https://twitter.com/Motabhai012|52K|🔴🔴🔴🔴🔴|
