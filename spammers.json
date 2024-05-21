@@ -1,8 +1,20 @@
 {
-"spammers":[
-	{
-	"username":"@Motabhai012",
-	"rest_id":1672896615357763585
-	}
-]
+	"spammers": [
+		{
+			"username": "@Motabhai012",
+			"rest_id": 1672896615357763585
+		},
+		{
+			"username": "@euphorio_",
+			"rest_id": 108054171
+		},
+		{
+			"username": "@LegalMemer_",
+			"rest_id": 1740293252644024320
+		},
+		{
+			"username": "@chy_Naomi",
+			"rest_id": 1704454827319955456
+		}
+	]
 }
